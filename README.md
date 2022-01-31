@@ -1,5 +1,5 @@
-# Videos de BIM 2.0 Odoo 14
-Módulo de Odoo para empresas de construcción. Presupuesto y Certificación de Obra
+# Videos de SIS 2.0 Odoo 15
+Módulo de Odoo para clínicas.
 
 # Mis datos de Contacto
 ```
@@ -13,4 +13,9 @@ Marlon Falcón Hernández | España | Valencia
 » linkedin: https://linkedin.com/in/marlon-falcón-3a2aa9a4
 ```
 
-1. Introducción a Odoo BIM https://www.youtube.com/watch?v=d9wgIGIXYLI
+1. Introducción a SIS: https://www.youtube.com/watch?v=o0eazfA4btE&t=329s
+2. Salida de materiales a pacientes: https://www.youtube.com/watch?v=Ozjf7DS_qOo&t=239s
+3. SIS Filtro de pacientes: https://www.youtube.com/watch?v=X9md5p7p3Gs&t=163s
+4. SIS en 15.0 https://www.youtube.com/watch?v=02Lznfjy3Bk
+5. SIS crear medicamentos: https://www.youtube.com/watch?v=-9n3zIfC2W4
+6. SIS Esterilización Instrumental Quirúrgico: https://www.youtube.com/watch?v=aWNLrxetH2A
