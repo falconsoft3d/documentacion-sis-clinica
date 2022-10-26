@@ -1,4 +1,4 @@
-# Videos de SIS 2.0 Odoo 15
+# Videos de SIS 20 Odoo 16
 Módulo de Odoo para clínicas.
 
 # Mis datos de Contacto
@@ -13,9 +13,8 @@ Marlon Falcón Hernández | España | Valencia
 » linkedin: https://linkedin.com/in/marlon-falcón-3a2aa9a4
 ```
 
-1. Introducción a SIS: https://www.youtube.com/watch?v=o0eazfA4btE&t=329s
-2. Salida de materiales a pacientes: https://www.youtube.com/watch?v=Ozjf7DS_qOo&t=239s
-3. SIS Filtro de pacientes: https://www.youtube.com/watch?v=X9md5p7p3Gs&t=163s
-4. SIS en 15.0 https://www.youtube.com/watch?v=02Lznfjy3Bk
-5. SIS crear medicamentos: https://www.youtube.com/watch?v=-9n3zIfC2W4
-6. SIS Esterilización Instrumental Quirúrgico: https://www.youtube.com/watch?v=aWNLrxetH2A
+1. Crear cita médica https://www.youtube.com/watch?v=ksBs5KWuHpI&t=27s
+2. Crear consulta y facturarl https://www.youtube.com/watch?v=Y5Ey2QZMfAk&t=7s
+3. Toma de signos del paciente: https://www.youtube.com/watch?v=us2bBp5RD78&t=25s
+4. Integración de las citas médicas con el crm https://www.youtube.com/watch?v=4wwIWYnafZk
+
